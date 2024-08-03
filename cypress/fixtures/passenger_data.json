@@ -1,26 +1,54 @@
 {
-  "TRAIN_NO": "12559",
-  "TRAIN_COACH": "SL",
-  "TRAVEL_DATE": "18/07/2024",
-  "SOURCE_STATION": "BSBS",
+  "TRAIN_NO": "15018",
+  "TRAIN_COACH": "3A",
+  "TRAVEL_DATE": "02/12/2024",
+  "SOURCE_STATION": "MAU",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "NDLS",
+  "DESTINATION_STATION": "KYN",
   "TATKAL": false,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Shivam Pandey",
-      "AGE": 26,
-      "GENDER": "Male",
-      "SEAT": "No Preference",
+      "NAME": "Shashi Chauhan",
+      "AGE": 24,
+      "GENDER": "Female",
+      "SEAT": "Lower",
       "FOOD": "No Food"
     },
     {
-      "NAME": "Shivam Dubey",
+      "NAME": "Suraj Chauhan",
+      "AGE": 28,
+      "GENDER": "Male",
+      "SEAT": "Middle",
+      "FOOD": "No Food"
+    },
+    {
+      "NAME": "Uma Chauhan",
+      "AGE": 46,
+      "GENDER": "Female",
+      "SEAT": "Upper",
+      "FOOD": "No Food"
+    },
+    {
+      "NAME": "Khushi Chauhan",
+      "AGE": 21,
+      "GENDER": "Female",
+      "SEAT": "Lower",
+      "FOOD": "No Food"
+    },
+    {
+      "NAME": "Kanchan Chauhan",
       "AGE": 26,
       "GENDER": "Female",
-      "SEAT": "No Preference",
+      "SEAT": "Middle",
+      "FOOD": "No Food"
+    },
+    {
+      "NAME": "Kanhaiyalal Chauhan",
+      "AGE": 48,
+      "GENDER": "Male",
+      "SEAT": "Upper",
       "FOOD": "No Food"
     }
   ],
